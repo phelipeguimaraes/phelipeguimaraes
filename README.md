@@ -1,5 +1,5 @@
 <h2>Hello guys!</h2>
-<p align="left">Me chamo Phelipe e tenho 19 anos. Sou uma pessoa apaixonado por tecnologia, desenvolver códigos e gosto de resolver problemas! Tenho um sonho de ser um desenvolvedor Front End. Aqui você vai ver o início da minha carreira no mundo da tecnologia.</p>
+<p align="left">Me chamo Phelipe e tenho 19 anos. Sou uma pessoa apaixonada por tecnologia, desenvolver códigos e gosto de resolver problemas! Tenho um sonho de ser um desenvolvedor Front End. Aqui você vai ver o início da minha carreira no mundo da tecnologia.</p>
 
 <ul>
   <li>Estudante de <strong>desenvolvimento WEB</strong></li>
