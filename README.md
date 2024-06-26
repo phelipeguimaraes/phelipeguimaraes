@@ -3,8 +3,8 @@
 
 <ul>
   <li>Estudante de <strong>desenvolvimento WEB</strong></li>
-  <li>Estudo à 1 ano programação</li>
-  <li>Atualmente estou cursando o 3º período de Engenharia de Software.</li>
+  <li>Estudo a mais de 1 ano programação</li>
+  <li>Atualmente estou cursando o 4º período de Engenharia de Software.</li>
   <li>Desenvolvo projetos WEB.</li>
 </ul>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
